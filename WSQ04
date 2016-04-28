@@ -1,0 +1,8 @@
+print ("dame la temperatura en grados fahrenheit")
+f=int(input())
+c=(5* (f- 32/9)
+print ("la temperatura en grados celciu es de " , c)
+if (c<100):
+  print ("el agua no hierve ")
+else:
+print("el agua hierve ")

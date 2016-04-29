@@ -4,6 +4,23 @@ print("dme otro numero")
 y=int(input())
 def suma ():
   print("la suma e igual a ", + (x+y))
-def substraccion2():
+def substraccion1():
   print("el primer numero menos el segundo es igual a ", + (x-y))
-  
+def substraccion2():
+  print("el segundo numero menos el primero es iual a ", + (y-x))
+def multiplicacion ():
+  print("la multiplicacion es igual a ",(x*y))
+def division1():
+  print("la division del primer numero entre el segundo es iual a ", + (x//y)
+def residual1():
+  print("el residual de la priemra division es de ",+(x%y))
+def division2 ():
+  print("la division del segundo numero entre el primero es igual a ", +(y//x)
+def residual2():
+  print("el residaul de la segunda division es igual a ", +(Y%x)
+  suma()
+  substraccion1()
+  substraccion2()
+  multiplicacion ()
+  division2 ()
+  division1 ()

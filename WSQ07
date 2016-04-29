@@ -1,0 +1,18 @@
+print("dame un rango de numeros y yo podre sumarlo")
+print("dame el primer numero de tu rango")
+x=int(input())
+print("dame el ultimo numero de tu rango")
+y=int(input())
+suma=0
+if x<y:
+  y=y+1
+  for n in rang (x,y):
+    suma=suma+x
+    x=x+1
+  print ("la suma de tu rango es ", suma)
+else:
+  x=x+1
+  for n in range (x,y):
+    suma=suma+y
+    y=y+1
+  print("la suma de tu rango es ", suma)

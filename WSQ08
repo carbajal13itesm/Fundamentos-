@@ -1,0 +1,9 @@
+print("dame un numero")
+x=int(input())
+print("dme otro numero")
+y=int(input())
+def suma ():
+  print("la suma e igual a ", + (x+y))
+def substraccion2():
+  print("el primer numero menos el segundo es igual a ", + (x-y))
+  

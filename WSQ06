@@ -1,0 +1,19 @@
+import random 
+x=(random.randrage(1,101))
+print("he escogido mi numero , es tu turno de adivinar ")
+print ("cual es mi numero?")
+y=int(input())
+con=1
+while y!=x:
+  if y>xx:
+    print ("te pasaste")
+    print("intenta de nuevo, cual es mi numero?")
+    y=int (input))
+    contador=int(contador+1)
+  elif y<x:
+    print("te falta")
+    print(intenta de nuevo, cual es mi numero?")
+    y=int(input())
+    contador=int(contador+1)
+  else:
+    print("haz acertado, tus intentos fueron ",+ contador)

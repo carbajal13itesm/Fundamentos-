@@ -1,0 +1,6 @@
+def superpower()
+  a=int(input("dame un numero "))
+  b=int (input("dame otro numero "))
+  resultado=a**b
+  print("el resultado es ", resultado)
+superpower()

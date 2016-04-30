@@ -1,0 +1,10 @@
+def triangulo ():
+  size=int(input("dame el tamaño maximo "))
+  t=""
+  for n in range (size):
+    t+="T"
+    print (t)
+  for n in range (size):
+    t=t[:-1]
+    print(t)
+triangulo()

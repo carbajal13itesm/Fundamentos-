@@ -1,0 +1,8 @@
+print("dame un numero")
+n1=float(input())
+print("dame otro numero")
+n2=float (input())
+print("la suma de estos dos numeros es",(n1+n2))
+print("la resta de esots numeros des de",(n1-n2))
+print("la multplicacion de estos numeros es de",(n1*n2))
+print("la division de estos numeros es de ",(n1/n2))

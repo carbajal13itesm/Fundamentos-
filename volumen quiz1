@@ -1,0 +1,6 @@
+print("dame el radio")
+radio=float(input())
+print("dame la altura")
+h=float(input())
+vol=((radio**2)*3.1416)*h
+print("el volumen del clilindro es ", vol)

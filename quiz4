@@ -1,0 +1,13 @@
+n3
+def factorail(n):
+  z=1
+  while(n>=1):
+    z=z*n
+    n=n-1
+  return z
+def euler_calc(n):
+  e=0
+  while(e<1):
+    e=e+(1/factorial(n))
+  return e
+print("el valoe aproximado es :", euler_calc(n))

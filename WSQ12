@@ -1,0 +1,12 @@
+def findword(sc):
+  archivo=open('texto.txt')
+  texto=archivo.read()
+  list=textp.split(" ")
+  cant=0
+  for n in list:
+    print(n)
+    if(n.lower()==sc):
+      cant+=1
+  return cant
+sc=input("¿que palabra quieres buscar?: "
+print("el numero de repeticiones de la palabra es :"

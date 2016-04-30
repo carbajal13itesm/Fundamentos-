@@ -1,0 +1,27 @@
+for i in lista:
+  x=1
+  x=str(x)
+  reversa =x[::-1]
+  if x==reversa:
+    palindomo +=1
+  else:
+    count=0
+    while x!=reversa and count!=30:
+       x=int(x)
+       reversa=int(reversa)
+       x=x+reversa
+       x=str(x)
+       reversa=x[::-1]
+       if x==reversa:
+         transformado+=1
+         count+=1
+        if x!=reversa and count>=30:
+          print(i,"numero lychrel ")
+          lychrel+=1
+print("de que numero a que numero fue el rango " + str (inicial)+"__"+str(final))
+print("palindromo natural :", palindromo)
+print("palindromo no natural :", transformado)
+print("candidato a numero lychrel:",lychrel)
+      
+  
+      

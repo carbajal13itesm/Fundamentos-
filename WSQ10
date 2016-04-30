@@ -1,0 +1,27 @@
+import math
+
+def total(x):
+  return sum
+def promedio(x):
+  ave=len(x)
+  return total (x)/ave
+def varianza(x):
+  b=0
+  for i in x :
+    a=(i-promedio(x))**2
+    b=b+a
+  return b(len(x)
+def stan_dev(x):
+  return math.sqrt(varianza(x))
+print("este programa te dara el promedio de 10 numeros y la desviacion estandar")
+count=1
+x=[]
+while (count<=10):
+  numero =float(input("dame el " + srt (count)+ "de 10 numeros "))
+  count+=1
+  x.append(numero)
+print(x)
+print("el total es "+ srt(total(x)))
+print("el promedio es "+ srt (promedio(x)))
+print("la desviacion estandar es "+ str (stan _dev(x)))
+

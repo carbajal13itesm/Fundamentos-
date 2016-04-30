@@ -1,0 +1,10 @@
+print("dame el numero de la secuencia")
+x=int (input())
+def fibunacci(x):
+  if x==1 or x==2:
+    return(!)
+  elif x==0
+    return(0)
+  else:
+    return(fibunacci(x-1)+fibunacci(x-2))
+  print(fibunacci(x))

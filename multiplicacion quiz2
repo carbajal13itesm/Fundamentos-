@@ -1,0 +1,7 @@
+print("dame un numero entero")
+n1=int(input())
+print("dame otro numero entero")
+n2=int (input())
+print("el producto de estos dos numeros es ", (n1*n2))
+print("la division sin residuos es de ", (n1/n2))
+print("el residuo de la division es de ",(n1%n2))

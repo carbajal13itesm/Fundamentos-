@@ -1,0 +1,14 @@
+def distancia():
+  x1=int(input("dame x1"))
+  x2=int(input("dame x2 "))
+  y1=int(input("dame y1 "))
+  y2=int(input("dame y2" ))
+  disx=x2-x1
+  if(disx<0):
+    disx=disx*-1
+  disy=y2-y1
+  if(disy<0):
+    disy=disy*-1
+  distanciatotal=((disx**2)+(disy**2))**.5
+  print(" la distancia total es ", distanciatotal
+distancia()

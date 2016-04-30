@@ -1,0 +1,17 @@
+def dot:product(list1,list2):
+  acum=0
+  if(len(list1)==len(list2)):
+    for n in range(len(list1)):
+      acum=acum+list1[n]*list2[n]
+    return acum
+  else:
+    return float ("NaN")
+list1=[1,2,3,4]
+list2=[1,2,3,4]
+acum=dot_product(list1,list2)
+print("el producto vectorial de",list1,"y",list2,"es",acum)
+
+list1=[1,2,3,4]
+list2=[1,2,3]
+acum=dot_product(list1,list2)
+print("el producto vectorial de ", list1,"y",list2,"es",acum)

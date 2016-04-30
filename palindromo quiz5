@@ -1,0 +1,11 @@
+x=input("escribe una palabra ")
+def is_palindrome(x):
+  x=x.lower()
+  y=x[::-1]
+  z=list(x)
+  y2=list(y)
+  if z==y2:
+    print("la palabra "+x+" es un palindromo")
+  else:
+    print("la palabra "+x+" no es un palindromo")
+  is_palindrome(x)

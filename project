@@ -1,0 +1,40 @@
+<html>
+<head>
+<link rel=sylesheet"type=text/css" href="archivo.css">
+<title>ISC </title>
+</head>
+<body>
+<!-- Start your code here -->
+<h1 class="h1"> ISC PROFILE </h1>
+   <img src="https://pbs.twimg.com/profile_images/2971522210/178fd5de0e31a8711f1d7468d1ed0476_400x400.jpeg"/>
+
+
+  <p class="lw">Nombre: julio cesar virgen carbajal</p>
+  <p class="lw">Edad: 20 años</p>
+  <p class="lw">Genero: Masculino</p>
+  <p class="lw">Motivación: sacar pa la cagua. </p>
+  <p class="lw">En dónde trabaja y vive: En el tec , usualmente esta en el gym  o atrapando pokemones en el salon ISC.</p>
+  <p class="lw">Clase social: media .</p>
+  <p class="lw">Actividades: jugar basketball , ir al gym , practicar capoeira , programar y comer pizza.</p>
+  <p class="lw">Estilo de vida: muy activo y saludable.</p>
+  <p class="lw">Nivel ante la computadora: muy capacitado y experto .</p>
+  <p class="lw">Las características de una persona que estudia ISC son: </p>
+  <p class="lw">- Le gusta la programación y los algoritmos </p>
+  <p class="lw">- Es una persona con un razonamiento basado en la logica </p>
+  <h1 class="h1">Personalidad : </h1>
+  <p class="lw">La personalidad de los ISC: son reservados pero entre amigos muy relajientos </p>
+  <p class="lw">, se concentran mucho, aunque pueden hacer varias cosas a la vez</p>
+  <p class="lw"> suelen ser muy analiticos para resolver un problema . </p>
+  <h1 class="h1">Referencias e influencias</h1>
+<p class="lw">Sus influencias son el internet , los exponentes de la tecnología, las computadoras y su evolución continua. Sus referencias suelen estar relacionadas con los avances  tecnologicos .</p>
+<p class="lw">El feeling  de un isc  es una persona muy analitica y perseverante , no hay error que no tenga solucion .</p>
+ <p class="lw">Sus metas son graduarse de la escuela con la experiencia necesaria para   poder trabajar en empresas relacionadas al desarrollo de software  como lo son Oracle, Microsoft, etc.</p>
+  <p class="lw">Ellos usan por lo general computadoras con Windows, y celulares android.</p>
+  <p class="lw">Ellos deben de solucionar problemas y lo que por ningun motivo deben de hacer es frustrarse ante los problemas que se le presenten.</p>
+  <h1 class="lw"> Relación con la marca y el producto</h1>
+  <p class="lw">el ingeniero en sistemas necesita las mejores herramientas como por ejemplo :</p>
+  <p class="lw">una computadora con un sistema operativo de alta calidad </p>
+  <p class="lw">que tenga memoria RAMM de almenos 8 GB</p>
+  <p class="lw">smartphone de preferencia android 4.4</p>
+</body>
+</html>
